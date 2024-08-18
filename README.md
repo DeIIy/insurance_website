@@ -14,11 +14,10 @@ This project is a modern single-page website designed for employers to predict h
 
 ## Screenshots
 
-![Screenshots_1](https://github.com/DeIIy/insurance_website/blob/main/README_Folder/Guardian_Page.png)
-![Screenshots_2](https://github.com/DeIIy/insurance_website/blob/main/README_Folder/Get_Started_Button.png)
-![Screenshots_3](https://github.com/DeIIy/insurance_website/blob/main/README_Folder/Sign_In.png)
-![Screenshots_4](https://github.com/DeIIy/insurance_website/blob/main/README_Folder/References.png)
-![Screenshots_5](https://github.com/DeIIy/insurance_website/blob/main/README_Folder/Feedbacks.png)
+![Screenshots_1](https://github.com/DeIIy/insurance_website/blob/main/README_Folder/Get_Started_Button.png)
+![Screenshots_2](https://github.com/DeIIy/insurance_website/blob/main/README_Folder/Sign_In.png)
+![Screenshots_3](https://github.com/DeIIy/insurance_website/blob/main/README_Folder/References.png)
+![Screenshots_4](https://github.com/DeIIy/insurance_website/blob/main/README_Folder/Feedbacks.png)
 
 ## Setup
 
